@@ -1,0 +1,1 @@
+create table accounts( id MEDIUMINT Not null PRIMARY KEY AUTO_INCREMENT,  temperature varchar(255), humidity varchar(255), date datetime default CURRENT_TIMESTAMP);

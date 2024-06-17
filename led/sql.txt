@@ -1,0 +1,3 @@
+<!-- create database led; -->
+<!-- create table led(datetime datetime default CURRENT_TIMESTAMP, led enum('ON','OFF'), value varchar(2));  -->
+<!-- select * from led; -->
